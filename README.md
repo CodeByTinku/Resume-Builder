@@ -2,7 +2,7 @@
 
 A modern, responsive, and real-time WYSIWYG (What You See Is What You Get) Resume Builder application. Built with React and Vite, this tool allows users to craft professional resumes with instant visual feedback and export them as ATS-compatible PDFs.
 
-[Resume Builder Demo](resume-builder-murex-eight.vercel.app) 
+[Resume Builder Demo](https://resume-builder-murex-eight.vercel.app/) 
 
 
 ## ✨ Features
